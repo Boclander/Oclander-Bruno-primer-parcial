@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1557235920 source:c:\users\alumno\desktop\oclander-bruno-primer-parcial\oclander bruno primer parcial\funcionesbasicas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"FuncionesBasicas.h"
+
+1557235907 c:\users\alumno\desktop\oclander-bruno-primer-parcial\oclander bruno primer parcial\funcionesbasicas.h
+
+1557242191 source:c:\users\alumno\desktop\oclander-bruno-primer-parcial\oclander bruno primer parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Peliculas.h"
+	"FuncionesBasicas.h"
+
+1557241991 c:\users\alumno\desktop\oclander-bruno-primer-parcial\oclander bruno primer parcial\peliculas.h
+
+1557242123 source:c:\users\alumno\desktop\oclander-bruno-primer-parcial\oclander bruno primer parcial\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"FuncionesBasicas.h"
+	"Peliculas.h"
+
+1557270754 source:c:\users\bruno\desktop\asd\oclander-bruno-primer-parcial\oclander-bruno-primer-parcial\oclander bruno primer parcial\funcionesbasicas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"FuncionesBasicas.h"
+
+1557270754 c:\users\bruno\desktop\asd\oclander-bruno-primer-parcial\oclander-bruno-primer-parcial\oclander bruno primer parcial\funcionesbasicas.h
+
+1557273606 source:c:\users\bruno\desktop\asd\oclander-bruno-primer-parcial\oclander-bruno-primer-parcial\oclander bruno primer parcial\actores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"FuncionesBasicas.h"
+	"Actores.h"
+
+1557274576 c:\users\bruno\desktop\asd\oclander-bruno-primer-parcial\oclander-bruno-primer-parcial\oclander bruno primer parcial\actores.h
+
